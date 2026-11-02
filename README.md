@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! 👋 I'm Mohammed Farooq
 
-<!--
-**MohammedFarooq17/MohammedFarooq17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Graduate in Artificial Intelligence & Machine Learning.
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer interested in software development, cloud computing and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Skills
+- Programming: Python, SQL
+- Cloud: AWS
+- Operating Systems: Linux
+- Version Control: Git & GitHub
+- DevOps Tools: Docker, Jenkins, Kubernetes
+
+### 📚 Currently Learning
+- Data Structures and Algorithms
+- Software Development Fundamentals
+- AWS Cloud Services
+- DevOps and CI/CD Practices
+
+### 📂 Projects
+*Customer Churn Prediction System*
+- Developed a machine learning model using Python and Random Forest.
+- Used Pandas, NumPy and Scikit-learn.
+
+[View Project on GitHub](https://github.com/MohammedFarooq17/customer-churn-prediction-system)
+
+### 🎯 Career Interests
+Associate Software Engineer | Software Developer | Cloud Engineer | DevOps Engineer
+
+### 🔗 Connect
+[GitHub](https://github.com/MohammedFarooq17)
